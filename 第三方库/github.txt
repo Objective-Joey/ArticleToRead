@@ -12,6 +12,7 @@ https://github.com/kingsic/SGAnimation
 https://github.com/wwdc14/HyPopMenuView
 导航栏
 (透明)
+https://github.com/wangrui460/WRNavigationBar
 http://git.oschina.net/xiao66guo/XGDifferentNavigationBar/tree/master
 https://github.com/HelloYeah/HYNavBarHidden
 https://github.com/aijun198600/AlphaNavigationBar
@@ -31,6 +32,7 @@ https://github.com/YouXianMing/YoCelsius#fork-destination-box
 https://github.com/CVCalendar/CVCalendar
 https://github.com/jonathantribouharet/JTCalendar
 https://github.com/nighthawk/ASWeekSelectorView
+https://github.com/WenchaoD/FSCalendar
 日期选择器
 https://github.com/Zws-China/DatePicker
 https://github.com/skywinder/ActionSheetPicker-3.0
