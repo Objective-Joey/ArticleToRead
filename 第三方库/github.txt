@@ -21,6 +21,7 @@ https://github.com/AAChartModel/AAChartKit
 https://github.com/kevinzhow/PNChart
 https://github.com/ZhipingYang/UUChartView
 https://github.com/chaione/CHCircleGaugeView
+https://github.com/danielgindi/Charts
 动画
 https://github.com/ding379985418/DXBadgeButton
 https://github.com/Zws-China/CAAnimation
