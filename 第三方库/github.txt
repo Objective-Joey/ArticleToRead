@@ -73,6 +73,7 @@ https://github.com/chiunam/CTAssetsPickerController
 图片缓存
 https://github.com/rs/SDWebImage
 布局
+https://github.com/gsdios/SDAutoLayout
 https://github.com/Masonry/Masonry
 数据模型
 https://github.com/Mantle/Mantle
