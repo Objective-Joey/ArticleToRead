@@ -35,7 +35,8 @@ https://github.com/CVCalendar/CVCalendar
 https://github.com/jonathantribouharet/JTCalendar
 https://github.com/nighthawk/ASWeekSelectorView
 https://github.com/WenchaoD/FSCalendar
-日期选择器
+选择器
+https://github.com/jasnig/ZJUsefulPickerView
 https://github.com/Zws-China/DatePicker
 https://github.com/skywinder/ActionSheetPicker-3.0
 二维码
@@ -107,6 +108,7 @@ https://github.com/chenfanfang/AvoidCrash
 项目工程工具
 https://github.com/wujunyang/MobileProject
 https://github.com/LiuYulei001/BasicFramework
+https://github.com/Josin22/Yuncai
 版本更新
 https://github.com/CoderZhuXH/XHVersion
 //侧边栏
@@ -117,3 +119,8 @@ https://github.com/r9ronaldozhang/ZYColumnViewController
 https://github.com/yuantiku/YTKNetwork
 collective
 https://github.com/zhaoquntao/RoomManage
+播放器
+https://github.com/zhengwenming/WMPlayer
+
+collectionView
+https://github.com/SemiconlonWang/AnimatedCollectionViewLayout
