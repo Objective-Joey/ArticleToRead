@@ -1,5 +1,7 @@
 优秀的第三方集合
 https://github.com/Tim9Liu9/TimLiu-iOS
+//界面优化，掉帧
+https://github.com/facebookarchive/AsyncDisplayKit
 启动页
 (movie)
 https://github.com/Zws-China/startMovie
